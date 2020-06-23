@@ -1,0 +1,30 @@
+{
+  "name": "lsystem-ts",
+  "version": "2.0.0",
+  "description": "L-System using turtle-ts package in typescript",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daniazar/turtlets.git"
+  },
+  "keywords": [
+    "lsystem",
+    "turtle",
+    "engine",
+    "typescript"
+  ],
+  "author": "Daniel Azar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/daniazar/turtlets/issues"
+  },
+  "homepage": "https://github.com/daniazar/turtlets#readme",
+  "dependencies": {
+    "eslint": "^7.2.0",
+    "turtle-ts": "^2.0.2"
+  }
+}
